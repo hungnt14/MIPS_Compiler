@@ -1,0 +1,5 @@
+OUT 4194384
+jumpdown 4194376
+jumplbu 4194380
+jumpup 4194304
+pass 4194356
